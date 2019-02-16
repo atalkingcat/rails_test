@@ -10,6 +10,10 @@
     "react_ujs": "^2.4.4"
   },
   "devDependencies": {
-    "webpack-dev-server": "~>3.1.11bin/ra"
+    "webpack-dev-server": "2.11.2"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://atalkingcat@github.com/atalkingcat/rails_test.git"
   }
 }
