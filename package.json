@@ -4,14 +4,14 @@
   "dependencies": {
     "@rails/webpacker": "3.5",
     "babel-preset-react": "^6.24.1",
-    "prop-types": "^15.7.0",
-    "react": "^16.8.1",
-    "react-dom": "^16.8.1",
+    "prop-types": "^15.7.2",
+    "react": "^16.8.2",
+    "react-dom": "^16.8.2",
     "react_ujs": "^2.4.4",
     "semantic-ui-react": "^0.85.0"
   },
   "devDependencies": {
-    "webpack-dev-server": "2.11.2"
+    "webpack-dev-server": "~3.1.11"
   },
   "repository": {
     "type": "git",
